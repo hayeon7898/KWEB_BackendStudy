@@ -1,0 +1,24 @@
+{
+  "name": "kweb_backendstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "09.21_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hayeon7898: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@github.com/LIMDANBI/Capstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LIMDANBI/Capstone/issues"
+  },
+  "homepage": "https://github.com/LIMDANBI/Capstone#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
