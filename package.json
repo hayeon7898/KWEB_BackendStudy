@@ -1,7 +1,6 @@
 {
   "name": "kweb_backendstudy",
   "version": "1.0.0",
-  "description": "",
   "main": "09.21_index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +18,8 @@
   "homepage": "https://github.com/LIMDANBI/Capstone#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "mysql2": "^3.6.3",
     "pug": "^3.0.2"
-  }
+  },
+  "description": ""
 }
